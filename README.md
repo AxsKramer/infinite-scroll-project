@@ -1,2 +1,2 @@
-# infinite-scroll-project
-Infinite Scroll Project in Javascript
+# Infinite Scroll Project
+Infinite Scroll Project in Javascript using unsplash api to get random photos.
